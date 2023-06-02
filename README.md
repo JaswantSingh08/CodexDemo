@@ -1,1 +1,1 @@
-# CodexDemo
+This program is a C# program that uses the Azure AI OpenAI API to summarize and explain code in simple English. It takes a folder path, language versions, and other settings as input, reads stored procedures from the files in the folder, cleans the stored procedures, and then calls the OpenAI API to get a summary of the code. Finally, it creates a Word document with the summary.
